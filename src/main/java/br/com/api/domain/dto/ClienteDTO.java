@@ -30,6 +30,6 @@ public class ClienteDTO implements Serializable{
 	
 
 	@NotEmpty(message="Preenchimento obrigatório")
-	private String telefone;
+	private String telefone; 
 
 }
